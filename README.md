@@ -16,8 +16,4 @@ A modern, responsive music site designed to provide users with a seamless music 
 - **CSS3**: Styling, layout, and responsiveness.
 - **JavaScript**: Adding interactivity and dynamic behavior.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/RohitGayal20/Music_site.git
